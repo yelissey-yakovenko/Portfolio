@@ -3,8 +3,7 @@ Portofio of projects
 
 PowerBI project named Own dataset was created with own_database.csv
 
-own_database.csv is a .csv file type created by myself in mySQL 
-Dataset was collected from a POS system one of the bar I worked in
+own_database.csv is a .csv file type created by myself in mySQL
 
 This dataset went through full data analyse cycle which is collecting and sorting raw data, structured, analyse and visualize it.
 
